@@ -1,0 +1,9 @@
+.foo{ background-color:#609cce;
+ background: linear-gradient(#609cce, #4782b2);
+ background: -webkit-linear-gradient(#609cce, #4782b2);
+ background: -moz-linear-gradient(#609cce, #4782b2);
+ background: -o-linear-gradient(#609cce, #4782b2);
+ border-radius: 5px;  font-size: 15px;  height: auto;  left: -96px;  box-shadow: 1px 1px 5px #999;   line-height: 22px;  padding: 7px 10px;  position: absolute;  white-space: normal;  width: 208px;  text-transform:none; text-align: left; font-weight:normal; color: #fff; font-family: Arial, sans-serif; min-height:50px; border-bottom:3px solid #255781; text-transform:capitalize; z-index:1;}
+.foo em{ color:#000;}
+.foo em{ position:absolute; top:0;}
+.foo em:after{position: absolute; top: -19px;  content: ""; border: 10px solid transparent; border-bottom: 10px solid #609cce; }

@@ -1,0 +1,13 @@
+{
+  "name": "ng-NtoolTip",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "main": [
+    "./ng-ntool-tip.js", 
+    "./ng-ntool-tip.css"
+  ],
+  "devDependencies": {
+    
+  }
+}
